@@ -1,2 +1,2 @@
 # MindTest
-I little math test.
+A little math test I made.
